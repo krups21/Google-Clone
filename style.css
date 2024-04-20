@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: antiquewhite;
+}
+
+#nav {
+  height: 50px;
+  background-color: #3c3c3c;
+  padding-left: 10px;
+}
+
+.retry {
+  margin-left: 5px;
+  padding-right: 14px;
+}
+
+input {
+  background-color: rgb(31, 31, 31);
+  height: 35px;
+  width: 1090px;
+  border-radius: 50px;
+  margin-top: 5px;
+  margin-left: 3px;
+  border: none;
+}
+
+body {
+  background-color: rgb(31, 31, 31);
+  background-image: url(FBBXei9.webp);
+  background-size: cover;
+}
+
+#google {
+  position: relative;
+  top: 50px;
+  left: 550px;
+}
+
+#searchbar {
+  background-color: white;
+  width: 500px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 70px;
+}
+
+#googlesearch1 {
+  background-color: #3c3c3c;
+  margin-top: 20px;
+  margin-left: 570px;
+  width: 120px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+#googlesearch1:hover {
+  cursor: pointer;
+}
+
+#googlesearch2 {
+  background-color: #3c3c3c;
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 120px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+#icons {
+  margin-left: 500px;
+  padding-top: 20px;
+}
+
+.icons {
+  text-decoration: none;
+  font-size: 0.8em;
+  padding-right: 10px;
+  color: #8ab4f8;
+}
+
+.icons:hover {
+  text-decoration: underline;
+  color: 38ab4f8;
+}
